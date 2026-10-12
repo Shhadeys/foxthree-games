@@ -4,7 +4,7 @@
     "compatibility_date": "2026-09-16",
     "routes": [
         {
-            "pattern": "games.foxthree.org",
+            "pattern": "study.studyingtools.org",
             "custom_domain": true
         }
     ],
